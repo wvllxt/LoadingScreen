@@ -1,1 +1,1 @@
-# EntryPoint
+Plugins: zenject, hotreload
